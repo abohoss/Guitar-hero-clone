@@ -1,1 +1,1 @@
-# Guitar-hero-clone
+I implemented a clone of the guitar hero game (see my cs61b repo for the insights). IN order to better understaned the double ended deque data structure, I built it from scratch using a linked list appraoch adn an array-based appraoch and used the deque API that I built to generate synthesized musical instruments
